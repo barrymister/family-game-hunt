@@ -29,6 +29,8 @@ We are looking for games that meet most or all of the following:
 ## 📂 Repository Structure
 ```
 family-game-hunt/
+├── data/            # Raw data files
+│   └── RPG_Game_Comparison.csv  # Game comparison data
 ├── games/           # Individual game evaluations
 │   └── summary.md   # Game comparison chart
 ├── resources/       # Helpful links and references
