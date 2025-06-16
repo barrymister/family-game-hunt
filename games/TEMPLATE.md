@@ -34,14 +34,16 @@
 |              |             |       |
 
 ## 📊 Criteria Match
-| Criteria | Score (1-5) | Notes |
-|----------|------------|-------|
-| Group Play |  |  |
-| Combat |  |  |
-| Progression |  |  |
-| Technical |  |  |
-| Community |  |  |
-| **Total** |  |  |
+| Criteria | Status | Notes |
+|----------|--------|-------|
+| Action RPG | ✅/❌/⚠️ |  |
+| Low Grind | ✅/❌/⚠️ |  |
+| Large Group | ✅/❌/⚠️ |  |
+| Co-op | ✅/❌/⚠️ |  |
+| Class/Race Options | ✅/❌/⚠️ |  |
+| Third-Person | ✅/❌/⚠️ |  |
+| Stat Builds | ✅/❌/⚠️ |  |
+| Modern (≤10 yrs) | ✅/❌/⚠️ |  |
 
 ## 📌 Additional Notes
 - 
